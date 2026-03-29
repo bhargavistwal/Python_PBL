@@ -41,6 +41,7 @@ It follows a complete pipeline from data generation to prediction.
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Seaborn
 
 ## Conclusion
 The project successfully demonstrates a complete machine learning workflow for predicting WiFi congestion using multiple features.
